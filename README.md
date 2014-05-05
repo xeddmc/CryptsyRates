@@ -9,7 +9,7 @@ Run the app. In the GUI type the codes for the coins you want to check, press en
 There is a .py file that will run on any python installation, and a .exe for people on windows without python knowledge.
 
 the .py depends on cryptsy.py, you can install with
-    pip install cryptsy
+            pip install cryptsy
     
 then run
-    python CryptsyRates.py
+            python CryptsyRates.py
